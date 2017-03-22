@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on Purdue SoCet</title>
+    <link>https://purduesocet.github.io/team/index.xml</link>
+    <description>Recent content in Teams on Purdue SoCet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Fri, 03 Mar 2017 09:53:21 -0800</lastBuildDate>
+    <atom:link href="https://purduesocet.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://purduesocet.github.io/team/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:21 -0800</pubDate>
+      
+      <guid>https://purduesocet.github.io/team/</guid>
+      <description>
+
+&lt;h2 id=&#34;faculty-staff&#34;&gt;Faculty/Staff&lt;/h2&gt;
+
+&lt;p&gt;TODO: List faculty and staff&lt;/p&gt;
+
+&lt;h2 id=&#34;current-students&#34;&gt;Current Students&lt;/h2&gt;
+
+&lt;p&gt;TODO: List current Students&lt;/p&gt;
+
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
+
+&lt;p&gt;TODO: List alumni&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
