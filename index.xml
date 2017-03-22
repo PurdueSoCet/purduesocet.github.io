@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purdue SoCet</title>
+    <link>https://purduesocet.github.io/index.xml</link>
+    <description>Recent content on Purdue SoCet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Fri, 03 Mar 2017 09:53:03 -0800</lastBuildDate>
+    <atom:link href="https://purduesocet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Active Projects</title>
+      <link>https://purduesocet.github.io/projects/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:03 -0800</pubDate>
+      
+      <guid>https://purduesocet.github.io/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;microbrewer&#34;&gt;MicroBrewer&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about MicroBrewer&lt;/p&gt;
+
+&lt;h2 id=&#34;riscv-business&#34;&gt;RISCV-Business&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about RISCV-Business&lt;/p&gt;
+
+&lt;h2 id=&#34;purduevm&#34;&gt;PurdUeVM&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about PurdUeVM&lt;/p&gt;
+
+&lt;h2 id=&#34;waf&#34;&gt;WAF&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about WAF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System-On-Chips</title>
+      <link>https://purduesocet.github.io/system-on-chips/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:14 -0800</pubDate>
+      
+      <guid>https://purduesocet.github.io/system-on-chips/</guid>
+      <description>
+
+&lt;h2 id=&#34;aft-x04&#34;&gt;AFT-X04&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: AFT-X04 is an attempt at creating a simple microcontroller centered around a RISC-V core.  
+It features a richer set of peripherals than AFT-X03 and includes interrupts.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AFT-X04 is currently under design and verification.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://purduesocet.github.io/images/aft_x04_small.jpg&#34; alt=&#34;aft_x04&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;aft-x03&#34;&gt;AFT-X03&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: AFT-X03&#39;s main focus was to create an SoC with basic functionality.  The only supported
+peripheral is GPIO. This was the team&#39;s first attempt at on-chip SRAM.  The simplicity of the
+chip allows us to focus on establishing a team design flow before moving onto more complex designs. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AFT-X03 is taped out and is currently under bring-up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://purduesocet.github.io/images/aft_x03_small.png&#34; alt=&#34;aft_x03&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;aft-x01-aft-x02&#34;&gt;AFT-X01/AFT-X02&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: AFT-X01 and AFT-X02 wwere the team&#39;s first attempt at designing and taping-out an SoC.  
+Both chips have the same architecture. The bus structure of this chip was adopted by all of
+our current SoCs. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AFT-X01 had an error in the power distribution and could not successfully be powered up.&lt;/p&gt;
+
+&lt;p&gt;AFT-X02 was successfully powered on during bring-up.  We were able to communicate with the debugger through UART.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://purduesocet.github.io/images/aft_x01_small.png&#34; alt=&#34;aft_x01&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://purduesocet.github.io/papers/</link>
+      <pubDate>Fri, 17 Mar 2017 09:16:28 -0700</pubDate>
+      
+      <guid>https://purduesocet.github.io/papers/</guid>
+      <description>
+
+&lt;h2 id=&#34;risc-v-international-conference-2017&#34;&gt;RISC-V International Conference 2017&lt;/h2&gt;
+
+&lt;p&gt;TODO: Add reference to papers for RIC17&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://purduesocet.github.io/team/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:21 -0800</pubDate>
+      
+      <guid>https://purduesocet.github.io/team/</guid>
+      <description>
+
+&lt;h2 id=&#34;faculty-staff&#34;&gt;Faculty/Staff&lt;/h2&gt;
+
+&lt;p&gt;TODO: List faculty and staff&lt;/p&gt;
+
+&lt;h2 id=&#34;current-students&#34;&gt;Current Students&lt;/h2&gt;
+
+&lt;p&gt;TODO: List current Students&lt;/p&gt;
+
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
+
+&lt;p&gt;TODO: List alumni&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Purdue SoCet</title>
+      <link>https://purduesocet.github.io/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:29 -0800</pubDate>
+      
+      <guid>https://purduesocet.github.io/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://purduesocet.github.io/images/logo_small.png&#34; alt=&#34;logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome to the Purdue SoCet (System-on-Chip Extension Technologies) homepage!&lt;/p&gt;
+
+&lt;p&gt;Our goal is to provide students with a fully developed industry-style SoC design flow.  Students will gain experience with RTL design, formal verifcation methodologies, PCB design and bringup, synthesis and place and route tools, and software drivers.&lt;/p&gt;
+
+&lt;p&gt;Our website is still under construction and content is being regularly updated, so please bear with us.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+Hello Purdue SoCet member.
+
+All changes should be applied to the hugo webiste in the hugo directory.
+
+To recompile the website, cd to /hugo and run the command "hugo".
+
+Refer to the following website for instructions on getting started with hugo:
+https://gohugo.io/overview/quickstart/
+
+

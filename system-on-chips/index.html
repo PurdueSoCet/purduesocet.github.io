@@ -9,18 +9,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=10" />
-    <title>Purdue SoCet</title>
+    <title>System-On-Chips - Purdue SoCet</title>
     <meta name="generator" content="Hugo 0.18.1" />
 
     
     <meta name="description" content="Purdue System-On-Chip Extension Technologies">
     
-    <link rel="canonical" href="https://purduesocet.github.io/">
+    <link rel="canonical" href="https://purduesocet.github.io/system-on-chips/">
     
     <meta name="author" content="PurdueSoCet">
     
 
-    <meta property="og:url" content="https://purduesocet.github.io/">
+    <meta property="og:url" content="https://purduesocet.github.io/system-on-chips/">
     <meta property="og:title" content="Purdue SoCet">
     <meta property="og:image" content="https://purduesocet.github.io/images/logo.png">
     <meta name="apple-mobile-web-app-title" content="Purdue SoCet">
@@ -69,9 +69,6 @@
     <script src="https://purduesocet.github.io/javascripts/modernizr.js"></script>
 
     
-    <link href="https://purduesocet.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Purdue SoCet" />
-    <link href="https://purduesocet.github.io/index.xml" rel="feed" type="application/rss+xml" title="Purdue SoCet" />
-    
 
   </head>
   <body class="palette-primary-gold palette-accent-black">
@@ -97,7 +94,7 @@
     </div>
     <div class="stretch">
       <div class="title">
-        Purdue SoCet
+        System-On-Chips
       </div>
     </div>
 
@@ -162,14 +159,11 @@
 
 
 
-<a class="current" title="Home" href="https://purduesocet.github.io/">
+<a  title="Home" href="https://purduesocet.github.io/">
 	
 	Home
 </a>
 
-
-<ul id="scrollspy">
-</ul>
 
 
   
@@ -201,11 +195,14 @@
 
 
 
-<a  title="System-On-Chips" href="https://purduesocet.github.io/system-on-chips/">
+<a class="current" title="System-On-Chips" href="https://purduesocet.github.io/system-on-chips/">
 	
 	System-On-Chips
 </a>
 
+
+<ul id="scrollspy">
+</ul>
 
 
   
@@ -278,18 +275,50 @@
 
 	<article class="article">
 		<div class="wrapper">
-			
-				<h1>Purdue SoCet </h1>
-
-				<p><img src="https://purduesocet.github.io/images/logo_small.png" alt="logo" /></p>
-
-<p>Welcome to the Purdue SoCet (System-on-Chip Extension Technologies) homepage!</p>
-
-<p>Our goal is to provide students with a fully developed industry-style SoC design flow.  Students will gain experience with RTL design, formal verifcation methodologies, PCB design and bringup, synthesis and place and route tools, and software drivers.</p>
-
-<p>Our website is still under construction and content is being regularly updated, so please bear with us.</p>
+			<h1>System-On-Chips </h1>
 
 			
+
+<h2 id="aft-x04">AFT-X04</h2>
+
+<pre><code class="language-toml">Goal: AFT-X04 is an attempt at creating a simple microcontroller centered around a RISC-V core.  
+It features a richer set of peripherals than AFT-X03 and includes interrupts.
+</code></pre>
+
+<p><strong>Status:</strong></p>
+
+<p>AFT-X04 is currently under design and verification.</p>
+
+<p><img src="https://purduesocet.github.io/images/aft_x04_small.jpg" alt="aft_x04" /></p>
+
+<h2 id="aft-x03">AFT-X03</h2>
+
+<pre><code class="language-toml">Goal: AFT-X03's main focus was to create an SoC with basic functionality.  The only supported
+peripheral is GPIO. This was the team's first attempt at on-chip SRAM.  The simplicity of the
+chip allows us to focus on establishing a team design flow before moving onto more complex designs. 
+</code></pre>
+
+<p><strong>Status:</strong></p>
+
+<p>AFT-X03 is taped out and is currently under bring-up.</p>
+
+<p><img src="https://purduesocet.github.io/images/aft_x03_small.png" alt="aft_x03" /></p>
+
+<h2 id="aft-x01-aft-x02">AFT-X01/AFT-X02</h2>
+
+<pre><code class="language-toml">Goal: AFT-X01 and AFT-X02 wwere the team's first attempt at designing and taping-out an SoC.  
+Both chips have the same architecture. The bus structure of this chip was adopted by all of
+our current SoCs. 
+</code></pre>
+
+<p><strong>Status:</strong></p>
+
+<p>AFT-X01 had an error in the power distribution and could not successfully be powered up.</p>
+
+<p>AFT-X02 was successfully powered on during bring-up.  We were able to communicate with the debugger through UART.</p>
+
+<p><img src="https://purduesocet.github.io/images/aft_x01_small.png" alt="aft_x01" /></p>
+
 
 			<aside class="copyright" role="note">
 				
@@ -304,23 +333,37 @@
 			<footer class="footer">
 				
 
-
-
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
+  
+      <a href="https://purduesocet.github.io/projects/" title="Active Projects">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              Active Projects
+            </div>
+          </div>
+        </div>
+      </a>
+  
   </div>
 
-  
-  
   <div class="next">
-      <a href="https://purduesocet.github.io/projects/" title="Projects">
+  
+      <a href="https://purduesocet.github.io/papers/" title="Papers">
         <span class="direction">
           Next
         </span>
         <div class="page">
           <div class="stretch">
             <div class="title">
-              Projects
+              Papers
             </div>
           </div>
           <div class="button button-next" role="button" aria-label="Next">
@@ -328,8 +371,11 @@
           </div>
         </div>
       </a>
+  
   </div>
 </nav>
+
+
 
 
 

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Purdue SoCet</title>
+    <link>https://purduesocet.github.io/projects/index.xml</link>
+    <description>Recent content in Projects on Purdue SoCet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Fri, 03 Mar 2017 09:53:03 -0800</lastBuildDate>
+    <atom:link href="https://purduesocet.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Active Projects</title>
+      <link>https://purduesocet.github.io/projects/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:03 -0800</pubDate>
+      
+      <guid>https://purduesocet.github.io/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;microbrewer&#34;&gt;MicroBrewer&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about MicroBrewer&lt;/p&gt;
+
+&lt;h2 id=&#34;riscv-business&#34;&gt;RISCV-Business&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about RISCV-Business&lt;/p&gt;
+
+&lt;h2 id=&#34;purduevm&#34;&gt;PurdUeVM&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about PurdUeVM&lt;/p&gt;
+
+&lt;h2 id=&#34;waf&#34;&gt;WAF&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about WAF&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System-on-chips on Purdue SoCet</title>
+    <link>https://example.org/system-on-chips/index.xml</link>
+    <description>Recent content in System-on-chips on Purdue SoCet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Fri, 03 Mar 2017 09:53:14 -0800</lastBuildDate>
+    <atom:link href="https://example.org/system-on-chips/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>System-On-Chips</title>
+      <link>https://example.org/system-on-chips/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:14 -0800</pubDate>
+      
+      <guid>https://example.org/system-on-chips/</guid>
+      <description>
+
+&lt;h2 id=&#34;aft-x04&#34;&gt;AFT-X04&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://example.org/images/aft_x04.jpg&#34; alt=&#34;aft_x04&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;aft-x03&#34;&gt;AFT-X03&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://example.org/images/aft_x03.png&#34; alt=&#34;aft_x03&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;aft-x01-aft-x02&#34;&gt;AFT-X01/AFT-X02&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://example.org/images/aft_x01.png&#34; alt=&#34;aft_x01&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

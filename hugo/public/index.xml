@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purdue SoCet</title>
+    <link>https://example.org/index.xml</link>
+    <description>Recent content on Purdue SoCet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Fri, 03 Mar 2017 09:53:03 -0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Active Projects</title>
+      <link>https://example.org/projects/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:03 -0800</pubDate>
+      
+      <guid>https://example.org/projects/</guid>
+      <description>
+
+&lt;h2 id=&#34;microbrewer&#34;&gt;microBrewer&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about microBrewer&lt;/p&gt;
+
+&lt;h2 id=&#34;riscv-business&#34;&gt;RISCV-Business&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about RISCV-Business&lt;/p&gt;
+
+&lt;h2 id=&#34;purduevm&#34;&gt;PurdUeVM&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about PurdUeVM&lt;/p&gt;
+
+&lt;h2 id=&#34;waf&#34;&gt;WAF&lt;/h2&gt;
+
+&lt;p&gt;TODO: Talk about waf&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>System-On-Chips</title>
+      <link>https://example.org/system-on-chips/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:14 -0800</pubDate>
+      
+      <guid>https://example.org/system-on-chips/</guid>
+      <description>
+
+&lt;h2 id=&#34;aft-x04&#34;&gt;AFT-X04&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://example.org/images/aft_x04.jpg&#34; alt=&#34;aft_x04&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;aft-x03&#34;&gt;AFT-X03&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://example.org/images/aft_x03.png&#34; alt=&#34;aft_x03&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;aft-x01-aft-x02&#34;&gt;AFT-X01/AFT-X02&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://example.org/images/aft_x01.png&#34; alt=&#34;aft_x01&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://example.org/team/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:21 -0800</pubDate>
+      
+      <guid>https://example.org/team/</guid>
+      <description>
+
+&lt;h2 id=&#34;faculty-staff&#34;&gt;Faculty/Staff&lt;/h2&gt;
+
+&lt;p&gt;TODO: List faculty and staff&lt;/p&gt;
+
+&lt;h2 id=&#34;current-students&#34;&gt;Current Students&lt;/h2&gt;
+
+&lt;p&gt;TODO: List current Students&lt;/p&gt;
+
+&lt;h2 id=&#34;alumni&#34;&gt;Alumni&lt;/h2&gt;
+
+&lt;p&gt;TODO: List alumni&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Purdue SoCet</title>
+      <link>https://example.org/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:29 -0800</pubDate>
+      
+      <guid>https://example.org/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://example.org/images/logo_small.png&#34; alt=&#34;logo&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome to the Purdue SoCet (System-on-Chip Extension Technologies) homepage!&lt;/p&gt;
+
+&lt;p&gt;Our goal is to provide students with a fully developed industry-style SoC design flow.  Students will gain experience with RTL design, formal verifcation methodologies, PCB design and bringup, synthesis and place and route tools, and software drivers.&lt;/p&gt;
+
+&lt;p&gt;Our website is still under construction and content is being regularly updated, so please bear with us.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

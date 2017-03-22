@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System-on-chips on Purdue SoCet</title>
+    <link>https://purduesocet.github.io/system-on-chips/index.xml</link>
+    <description>Recent content in System-on-chips on Purdue SoCet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Fri, 03 Mar 2017 09:53:14 -0800</lastBuildDate>
+    <atom:link href="https://purduesocet.github.io/system-on-chips/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>System-On-Chips</title>
+      <link>https://purduesocet.github.io/system-on-chips/</link>
+      <pubDate>Fri, 03 Mar 2017 09:53:14 -0800</pubDate>
+      
+      <guid>https://purduesocet.github.io/system-on-chips/</guid>
+      <description>
+
+&lt;h2 id=&#34;aft-x04&#34;&gt;AFT-X04&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: AFT-X04 is an attempt at creating a simple microcontroller centered around a RISC-V core.  
+It features a richer set of peripherals than AFT-X03 and includes interrupts.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AFT-X04 is currently under design and verification.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://purduesocet.github.io/images/aft_x04_small.jpg&#34; alt=&#34;aft_x04&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;aft-x03&#34;&gt;AFT-X03&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: AFT-X03&#39;s main focus was to create an SoC with basic functionality.  The only supported
+peripheral is GPIO. This was the team&#39;s first attempt at on-chip SRAM.  The simplicity of the
+chip allows us to focus on establishing a team design flow before moving onto more complex designs. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AFT-X03 is taped out and is currently under bring-up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://purduesocet.github.io/images/aft_x03_small.png&#34; alt=&#34;aft_x03&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;aft-x01-aft-x02&#34;&gt;AFT-X01/AFT-X02&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;Goal: AFT-X01 and AFT-X02 wwere the team&#39;s first attempt at designing and taping-out an SoC.  
+Both chips have the same architecture. The bus structure of this chip was adopted by all of
+our current SoCs. 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;AFT-X01 had an error in the power distribution and could not successfully be powered up.&lt;/p&gt;
+
+&lt;p&gt;AFT-X02 was successfully powered on during bring-up.  We were able to communicate with the debugger through UART.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://purduesocet.github.io/images/aft_x01_small.png&#34; alt=&#34;aft_x01&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
