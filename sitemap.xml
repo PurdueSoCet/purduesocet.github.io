@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://purduesocet.github.io/projects/</loc>
+    <lastmod>2017-03-03T09:53:03-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/system-on-chips/</loc>
+    <lastmod>2017-03-03T09:53:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/papers/</loc>
+    <lastmod>2017-03-17T09:16:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/team/</loc>
+    <lastmod>2017-03-03T09:53:21-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/</loc>
+    <lastmod>2017-03-03T09:53:29-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/papers/</loc>
+    <lastmod>2017-03-17T09:16:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/projects/</loc>
+    <lastmod>2017-03-03T09:53:03-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/</loc>
+    <lastmod>2017-03-03T09:53:03-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/system-on-chips/</loc>
+    <lastmod>2017-03-03T09:53:14-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://purduesocet.github.io/team/</loc>
+    <lastmod>2017-03-03T09:53:21-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
